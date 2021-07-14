@@ -14,7 +14,7 @@ A API retorna todos os 151 Pokémon da primeira geração.
 <img src="./assets/images/pokedexGIF.gif" height="500" />
 
 ## To Do
-- [ ] Adicionar os tipos de cada Pokémon"
+- [ ] Adicionar os tipos de cada Pokémon.
 - [ ] Adicionar a página de detalhes dos Pokémon. 
 
 ## Referência
